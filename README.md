@@ -1,2 +1,1 @@
-# curse-kubernetes
-k8s
+# Curse-kubernetes
